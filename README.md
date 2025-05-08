@@ -1,4 +1,4 @@
-# Future Internet Archive – C++ OOP Project
+# Internet Archive – C++ OOP Project
 
 This C++ project simulates a virtual archive of major internet events like tech launches and viral memes. It demonstrates core Object-Oriented Programming (OOP) principles such as abstraction, encapsulation, inheritance, and polymorphism — with additional use of file handling and terminal color formatting.
 
