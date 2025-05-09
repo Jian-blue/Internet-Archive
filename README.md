@@ -57,7 +57,7 @@ Each event should follow this 3-line format:
    ./Internet_Archive
 
 ### Terminal Output Preview:
-![image](https://github.com/user-attachments/assets/cee4d52d-ac8b-4ec6-9548-5824ed43ebfa)
+![image](https://github.com/user-attachments/assets/cee4d52d-ac8b-4ec6-9548-5824ed43ebfa)  
 Note: Colors will appear only in supported terminals — blue for tech, green for memes.
 
 ---
